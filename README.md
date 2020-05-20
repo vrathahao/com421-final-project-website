@@ -1,3 +1,3 @@
 # com421-final-project-website
 
-<img src ="./screen-capture">
+<img src ="./screen-capture.png">
