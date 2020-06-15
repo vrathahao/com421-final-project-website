@@ -2,6 +2,6 @@
 
 
 a quick prototype website for a communication class uploaded to 
-Github page at https://vrathahao.github.io/yardwastegone/
+Github page at https://vrcode-dev.github.io/yardwastegone/
 
 <img src ="./screen-capture.png">
